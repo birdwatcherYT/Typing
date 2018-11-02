@@ -3,6 +3,16 @@
 
 学部時代にWin32 APIのみで作ったプログラム
 
+## スクリーンショット
+<img src="./screenshot/start.png" width="300">
+<img src="./screenshot/menu.png" width="300">
+<img src="./screenshot/typing.png" width="300">
+<img src="./screenshot/result.png" width="300">
+<img src="./screenshot/dp.png" width="300">
+<img src="./screenshot/story.png" width="300">
+<img src="./screenshot/boss.png" width="300">
+<img src="./screenshot/setting.png" width="300">
+
 ## 各ファイルについて
 
 - Typing
