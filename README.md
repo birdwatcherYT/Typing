@@ -12,7 +12,6 @@
     - image : 画像データフォルダ
     - music : 音楽データフォルダ
     - Source.cpp  : ソースファイル
-    - report.docx : レポート
     - Typing (Compiled by Borland C++).exe   : タイピングソフト(Source.cppをBorland C++でコンパイルした)
     - Typing (Compiled by Cygwin g++).exe    : タイピングソフト(Source.cppをCygwin g++でコンパイルした)
     - Typing (Compiled by Visual Studio).exe : タイピングソフト(Source.cppをVisual Studioでコンパイルした)
